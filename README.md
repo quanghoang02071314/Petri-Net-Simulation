@@ -4,6 +4,7 @@ In this section, we implemented a Petri net visualization to illustrate clearly 
 We want to introduce to you that there are at least 4 file in the package: petriNet.py, place.py, transition.py, ⟨input_file_name⟩.txt
 We want to give a brief introduction about the input file form as below:
 
+```
 PLACES <number of place>
 <placeID>
 <input transition1>,<input transition2>,...
@@ -30,3 +31,5 @@ TRANSITIONS <number of transition>
 .
 . 
 .
+```
+  
