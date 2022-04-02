@@ -43,7 +43,7 @@ The TRANSITIONS header is followed by transitions information, separated by a bl
 
 # User manual
 
-Run following command in terminal:
+Run the following command in the terminal:
 ```
 python3 petriNet.py <input_file_name>.txt
 ```
